@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-i
+printf("fetch!!!!\n");
 
 printf("I am a king");
 }
